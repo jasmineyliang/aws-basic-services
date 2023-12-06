@@ -1,5 +1,3 @@
-package hw2;
-
 import java.util.Scanner; // Import the Scanner class
 import com.amazonaws.AmazonClientException;
 import com.amazonaws.auth.AWSCredentials;
